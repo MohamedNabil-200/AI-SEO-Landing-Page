@@ -70,7 +70,7 @@ export const Hero = () => {
       </motion.div>
       <div className="container relative mt-16">
         <h1 className="text-8xl md:text-[168px] md:leading-none font-semibold tracking-tighter bg-white bg-[radial-gradient(100%_100%_at_top_left,white,white,rgb(74,32,138,.5))] text-transparent bg-clip-text text-center">
-          AI SEO
+          SEOLY AI
         </h1>
         <p className="text-lg md:text-xl text-white/70 mt-5 text-center max-w-xl mx-auto">
           Elevate your site's visibility effortlessly with AI, where smart
