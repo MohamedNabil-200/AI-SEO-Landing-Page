@@ -4,7 +4,6 @@
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-95.2%25-3178c6?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-Latest-61dafb?style=flat-square&logo=react)](https://react.dev/)
-[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 
 ## 🚀 Overview
 
